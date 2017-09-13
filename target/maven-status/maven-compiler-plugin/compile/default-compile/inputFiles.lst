@@ -1,0 +1,17 @@
+C:\Users\MpiloTech\workspace\book-store\src\main\java\za\co\xigler\common\jpa\crud\ReflectionUtil.java
+C:\Users\MpiloTech\workspace\book-store\src\main\java\za\co\xigler\business\bookstore\boundary\BookStoreResource.java
+C:\Users\MpiloTech\workspace\book-store\src\main\java\za\co\xigler\common\jpa\crud\JPACrudService.java
+C:\Users\MpiloTech\workspace\book-store\src\main\java\za\co\xigler\business\bookstore\entity\Title.java
+C:\Users\MpiloTech\workspace\book-store\src\main\java\za\co\xigler\common\jpa\crud\QueryParameter.java
+C:\Users\MpiloTech\workspace\book-store\src\main\java\za\co\xigler\common\jpa\crud\EntityManagerProducer.java
+C:\Users\MpiloTech\workspace\book-store\src\main\java\za\co\xigler\common\util\LocalDateTimeAdapter.java
+C:\Users\MpiloTech\workspace\book-store\src\main\java\za\co\xigler\business\bookstore\entity\Book.java
+C:\Users\MpiloTech\workspace\book-store\src\main\java\za\co\xigler\business\bookstore\dto\Bookstore.java
+C:\Users\MpiloTech\workspace\book-store\src\main\java\za\co\xigler\business\bookstore\control\BookStoreManager.java
+C:\Users\MpiloTech\workspace\book-store\src\main\java\za\co\xigler\business\bookstore\presentation\HelloWorld.java
+C:\Users\MpiloTech\workspace\book-store\src\main\java\za\co\xigler\business\bookstore\dao\DataInitializer.java
+C:\Users\MpiloTech\workspace\book-store\src\main\java\za\co\xigler\business\bookstore\entity\Author.java
+C:\Users\MpiloTech\workspace\book-store\src\main\java\za\co\xigler\business\bookstore\dto\ObjectFactory.java
+C:\Users\MpiloTech\workspace\book-store\src\main\java\za\co\xigler\common\JaxRSActivator.java
+C:\Users\MpiloTech\workspace\book-store\src\main\java\za\co\xigler\common\util\LocalDateAdapter.java
+C:\Users\MpiloTech\workspace\book-store\src\main\java\za\co\xigler\business\bookstore\entity\BookStoreEntity.java

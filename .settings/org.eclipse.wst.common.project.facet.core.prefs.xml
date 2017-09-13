@@ -1,0 +1,7 @@
+<root>
+  <facet id="jpt.jaxb">
+    <node name="classgen">
+      <attribute name="package" value="za.co.xigler.business.bookstore.entity"/>
+    </node>
+  </facet>
+</root>
